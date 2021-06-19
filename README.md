@@ -1,16 +1,11 @@
-# flutter_food_delivery_app
+# Food-Delivery-App-UI 🍕
 
-A new Flutter application.
+Built Using Complex Flutter Widgets like GridView, ListView, ListViewBuilder, HeroAnimation Widget etc
 
-## Getting Started
+## Screenshot's
 
-This project is a starting point for a Flutter application.
+![SplashScreen](https://user-images.githubusercontent.com/77352136/122633302-7eeda300-d0f5-11eb-83fc-d0ee2d27e564.jpeg)
+![HomeScreen](https://user-images.githubusercontent.com/77352136/122633308-844aed80-d0f5-11eb-90b0-0091428e66c9.jpeg)
+![RestrauntScreen](https://user-images.githubusercontent.com/77352136/122633340-c2481180-d0f5-11eb-83c6-cacd9de8ac35.jpeg)
+![CartScreen](https://user-images.githubusercontent.com/77352136/122633345-c5430200-d0f5-11eb-9fa0-f6116ca5543a.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
